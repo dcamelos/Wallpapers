@@ -1,0 +1,285 @@
+Noto Sans Gurmukhi
+Noto Sans Display
+Noto Sans Arabic
+Noto Serif Bengali
+Noto Sans Bengali
+Standard Symbols PS
+Noto Sans Hebrew
+MathJax_Caligraphic
+Noto Sans Lepcha
+Noto Serif Devanagari
+Noto Sans Ogham
+Ubuntu Sans
+Noto Serif Dogra
+URW Gothic
+Noto Sans Buginese
+JetBrains Mono NL,JetBrains Mono NL Light
+OpenSymbol
+Noto Sans Tai Le
+Noto Sans Anatolian Hieroglyphs,Noto Sans AnatoHiero
+CaskaydiaCove Nerd Font Mono,CaskaydiaCove NFM,CaskaydiaCove NFM Light
+Noto Naskh Arabic
+Noto Serif
+Noto Sans Kayah Li
+Noto Sans Tai Tham
+CaskaydiaCove Nerd Font Mono,CaskaydiaCove NFM,CaskaydiaCove NFM SemiLight
+Noto Sans Tifinagh APT
+Noto Sans Tifinagh
+Noto Sans Psalter Pahlavi,Noto Sans PsaPahlavi
+MathJax_Main
+Noto Serif Malayalam
+Noto Sans Thaana
+Noto Sans Medefaidrin
+Noto Sans Tifinagh Air
+Noto Music
+JetBrains Mono,JetBrains Mono Medium
+Noto Sans Mongolian
+CaskaydiaCove Nerd Font,CaskaydiaCove NF,CaskaydiaCove NF Light
+Noto Sans Balinese
+Noto Sans Sinhala
+CaskaydiaCove Nerd Font,CaskaydiaCove NF,CaskaydiaCove NF SemiBold
+MathJax_Math
+Noto Sans Old South Arabian,Noto Sans OldSouArab
+Noto Serif Gurmukhi
+Noto Sans Brahmi
+Noto Sans Adlam
+Noto Sans Tamil Supplement
+Nimbus Roman
+Noto Sans Chakma
+Noto Sans Tifinagh Hawad
+Noto Sans Tirhuta
+feather
+Noto Sans Tifinagh Agraw Imazighen
+Noto Sans Canadian Aboriginal,Noto Sans CanAborig
+Noto Sans Cherokee
+Noto Sans Tifinagh Ghat
+Noto Sans Javanese
+Noto Serif Thai
+Noto Serif Lao
+Noto Sans Multani
+MathJax_Script
+Noto Serif Yezidi
+DejaVu Sans Mono
+Noto Sans Shavian
+Noto Sans SignWriting,Noto Sans SignWrit
+Noto Sans Gunjala Gondi
+Noto Serif CJK JP
+Noto Serif CJK KR
+Noto Serif CJK HK
+MathJax_Typewriter
+CaskaydiaCove Nerd Font,CaskaydiaCove NF
+MathJax_WinChrome
+Noto Sans Mandaic
+Noto Sans Kharoshthi
+Noto Sans Masaram Gondi
+Noto Sans Old Sogdian
+CaskaydiaCove Nerd Font Propo,CaskaydiaCove NFP,CaskaydiaCove NFP SemiBold
+CaskaydiaCove Nerd Font Mono,CaskaydiaCove NFM,CaskaydiaCove NFM SemiBold
+Noto Serif CJK SC
+Noto Sans Old Persian
+Noto Serif CJK TC
+Noto Sans Old Hungarian,Noto Sans OldHung
+Noto Looped Thai,Noto Looped Thai Regular
+Noto Sans Cham
+Noto Sans Bhaiksuki
+Noto Sans Deseret
+Noto Sans Runic
+Noto Serif Kannada
+Nimbus Sans
+Noto Sans Mono CJK SC
+Noto Sans Khojki
+Noto Serif Grantha
+Noto Sans Buhid
+Noto Sans Tifinagh SIL
+Bebas Neue
+Noto Sans Mono CJK TC
+Noto Sans Mono CJK JP
+Noto Serif Tamil Slanted
+Noto Sans Tai Viet
+Noto Sans Mono CJK HK
+Noto Sans Mono CJK KR
+Noto Sans Inscriptional Parthian,Noto Sans InsParthi
+Noto Sans Tifinagh Azawagh
+Noto Sans Mayan Numerals
+Ubuntu
+FreeSerif
+Noto Sans Soyombo
+Noto Traditional Nushu
+Nimbus Mono PS
+Noto Sans Hatran
+Noto Sans Tagalog
+JetBrains Mono,JetBrains Mono ExtraLight
+Noto Sans Osage
+Noto Sans Batak
+Noto Sans Glagolitic
+Noto Sans Malayalam
+Nimbus Sans Narrow
+Noto Sans Tifinagh Ahaggar
+Noto Sans Old North Arabian,Noto Sans OldNorArab
+Noto Sans Oriya
+URW Bookman
+CaskaydiaCove Nerd Font,CaskaydiaCove NF,CaskaydiaCove NF ExtraLight
+Noto Sans Georgian
+Noto Sans Mahajani
+DejaVu Sans
+Noto Sans Telugu
+CaskaydiaCove Nerd Font Propo,CaskaydiaCove NFP
+JetBrains Mono NL,JetBrains Mono NL Thin
+CaskaydiaCove Nerd Font,CaskaydiaCove NF,CaskaydiaCove NF SemiLight
+MathJax_Size4
+MathJax_Size1
+MathJax_Size3
+MathJax_Size2
+Noto Sans Linear A
+Noto Sans Linear B
+Noto Sans Gothic
+Noto Sans Lydian
+Noto Serif Gujarati
+Noto Sans Siddham
+Noto Sans Ol Chiki
+Noto Sans Mono
+Noto Sans Hanifi Rohingya
+Noto Sans Wancho
+Noto Sans Modi
+Noto Serif Tibetan
+Bitstream Charter
+Noto Sans Meetei Mayek
+Noto Sans Cypriot
+Noto Sans Miao
+Noto Sans Pahawh Hmong
+JetBrains Mono,JetBrains Mono Light
+Noto Sans Sogdian
+Noto Sans Ugaritic
+Noto Sans Lao
+Courier 10 Pitch
+Noto Sans Marchen
+C059
+CaskaydiaCove Nerd Font Propo,CaskaydiaCove NFP,CaskaydiaCove NFP SemiLight
+Liberation Mono
+MathJax_Vector\-Bold
+Noto Sans NKo
+Noto Sans Mro
+Noto Sans Elymaic
+Noto Sans PhagsPa
+Noto Sans Imperial Aramaic,Noto Sans ImpAramaic
+Noto Sans Tifinagh Adrar
+Noto Sans Adlam Unjoined
+JetBrains Mono
+Noto Sans Meroitic
+CaskaydiaCove Nerd Font Propo,CaskaydiaCove NFP,CaskaydiaCove NFP Light
+Noto Sans Gujarati
+Noto Sans Egyptian Hieroglyphs,Noto Sans EgyptHiero
+Noto Sans Bassa Vah
+Noto Serif Hebrew
+Noto Sans Manichaean
+MathJax_Fraktur
+Noto Sans Indic Siyaq Numbers
+Noto Sans
+Droid Sans Fallback
+Noto Sans Grantha
+Noto Sans Armenian
+Noto Serif Balinese
+Noto Sans Duployan
+Z003
+Noto Serif Myanmar
+Noto Sans Old Italic
+MathJax_SansSerif
+JetBrains Mono NL,JetBrains Mono NL Medium
+JetBrains Mono,JetBrains Mono ExtraBold
+Noto Sans Lisu
+Noto Sans Thai
+Noto Sans Khmer
+Noto Sans Kaithi
+D050000L
+Noto Sans Math
+Noto Looped Lao,Noto Looped Lao Bold
+MathJax_WinIE6
+Noto Sans Tagbanwa
+Noto Sans Myanmar
+Noto Sans Vai
+Liberation Serif
+JetBrains Mono NL
+JetBrains Mono NL,JetBrains Mono NL SemiBold
+Noto Sans New Tai Lue
+Noto Serif Georgian
+Noto Looped Thai,Noto Looped Thai Bold
+Noto Sans Syloti Nagri
+JetBrains Mono,JetBrains Mono Thin
+Noto Sans Symbols
+Noto Sans Samaritan
+Noto Sans Newa
+Noto Sans CJK HK
+Noto Sans CJK KR
+Noto Sans CJK JP
+Noto Serif Telugu
+Noto Sans Carian
+Liberation Sans
+Noto Sans CJK SC
+Noto Sans Bamum
+Noto Sans Takri
+Noto Sans Nabataean
+Noto Sans Avestan
+Noto Sans CJK TC
+Noto Sans Cuneiform
+FreeSans
+Noto Sans Kannada
+Noto Sans Sora Sompeng
+Noto Sans Elbasan
+Noto Sans Old Turkic
+Noto Color Emoji
+Noto Sans Limbu
+Noto Serif Khojki
+Noto Serif Tangut
+Noto Mono
+Noto Sans Tamil
+CaskaydiaCove Nerd Font Propo,CaskaydiaCove NFP,CaskaydiaCove NFP ExtraLight
+Ubuntu Sans Mono
+Noto Sans Sharada
+Noto Sans Osmanya
+Noto Sans Palmyrene
+Noto Serif Ahom
+Noto Sans Lycian
+Noto Sans Yi
+Noto Kufi Arabic
+Noto Sans Caucasian Albanian,Noto Sans CaucAlban
+JetBrains Mono NL,JetBrains Mono NL ExtraBold
+Noto Sans Pau Cin Hau
+Noto Sans Saurashtra
+CaskaydiaCove Nerd Font Mono,CaskaydiaCove NFM,CaskaydiaCove NFM ExtraLight
+Noto Sans Old Permic
+Noto Serif Armenian
+JetBrains Mono NL,JetBrains Mono NL ExtraLight
+Noto Sans Warang Citi
+Noto Sans Zanabazar Square,Noto Sans Zanabazar
+P052
+Noto Sans Syriac
+Noto Serif Sinhala
+Noto Sans Tifinagh Tawellemmet
+Noto Serif Ethiopic
+Noto Sans Tifinagh Rhissa Ixa
+Noto Sans Coptic
+Noto Sans Nushu
+DejaVu Serif
+Noto Sans Rejang
+Noto Sans Devanagari
+Noto Sans Symbols2
+Noto Rashi Hebrew
+Noto Looped Lao,Noto Looped Lao Regular
+Noto Serif Khmer
+MathJax_AMS
+Noto Serif Display
+MathJax_Vector
+Noto Serif Tamil
+Noto Nastaliq Urdu
+Noto Sans Ethiopic
+Noto Serif Hmong Nyiakeng
+JetBrains Mono,JetBrains Mono SemiBold
+FreeMono
+Ubuntu Mono
+CaskaydiaCove Nerd Font Mono,CaskaydiaCove NFM
+Noto Sans Hanunoo
+Noto Sans Inscriptional Pahlavi,Noto Sans InsPahlavi
+Noto Sans Phoenician
+Noto Sans Sundanese
+Noto Sans Khudawadi
+Noto Sans Mende Kikakui
