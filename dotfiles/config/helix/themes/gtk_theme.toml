@@ -1,0 +1,50 @@
+# --- INTERFAZ DE USUARIO ---
+"ui.background" = { }
+"ui.text" = { fg = "#c3c5c8"}
+"ui.window" = { fg = "#5e6874" }
+"ui.help" = { bg = "#5e6874", fg = "#c3c5c8"}
+
+"ui.statusline" = { fg = "#c3c5c8", bg = "#5e6874" }
+"ui.statusline.inactive" = { fg = "#707880", bg = "#0f1924"}
+"ui.statusline.normal" = { fg = "#0f1924", bg = "#97A2AA", modifiers = ["bold"] }
+"ui.statusline.insert" = { fg = "#0f1924", bg = "#738490", modifiers = ["bold"] }
+"ui.statusline.select" = { fg = "#0f1924", bg = "#7D91A1", modifiers = ["bold"] }
+
+"ui.virtual.indent-guide" = { fg = "#5e6874" }
+"ui.virtual.inlay-hint" = { fg = "#707880" }
+
+# --- SOLUCIÓN AL CONTRASTE ---
+"ui.selection" = { fg = "#0f1924", bg = "#97A2AA" }
+"ui.selection.primary" = { fg = "#0f1924", bg = "#D6DDE1" } # Un color distinto para la selección principal
+"ui.cursor" = { fg = "#0f1924", bg = "#c3c5c8"}
+"ui.cursor.match" = { fg = "#97A2AA", modifiers = ["underline"] }
+
+"ui.menu" = { fg = "#c3c5c8", bg = "#5e6874" }
+"ui.menu.selected" = { fg = "#0f1924", bg = "#97A2AA" }
+"ui.popup" = { bg = "#5e6874" }
+"ui.linenr" = { fg = "#707880" }
+"ui.linenr.selected" = { fg = "#97A2AA", modifiers = ["bold"] }
+
+# --- SINTAXIS (Mapeo de lógica de colores) ---
+"keyword" = "#97A2AA"
+"variable" = "#c3c5c8"
+"variable.parameter" = "#c3c5c8"
+"function" = "#97A2AA"
+"string" = "#738490"
+"constant" = "#7D91A1"
+"type" = "#7D91A1"
+"comment" = { fg = "#707880", modifiers = ["italic"] }
+"operator" = "#97A2AA"
+"punctuation" = "#707880"
+
+# Diagnósticos
+"error" = "#697A88"
+"warning" = "#7D91A1"
+"info" = "#97A2AA"
+"hint" = "#738490"
+
+[palette]
+# Colores base para uso rápido
+theme_bg = "#0f1924"
+theme_fg = "#c3c5c8"
+accent = "#97A2AA"
