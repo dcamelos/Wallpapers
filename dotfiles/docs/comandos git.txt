@@ -1,0 +1,21 @@
+git init para iniciar repositorios
+
+git status para mirar el estatus
+
+git add para agregar archivo
+git add . agragar todos los nuevos
+
+git commit -m “[Commit Message]”
+
+git push <repositorio-remoto> <rama-local>:<rama-remota>
+git push <repositorio-remoto> <rama-remota>
+
+git log historial cambios
+
+git branch mirar ramas o crear
+
+git checkout <nombre de rama a desplazarse>
+
+git rm --cached remover archivos
+
+

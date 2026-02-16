@@ -1,0 +1,6 @@
+Additional online resources
+https://nostarch.com/crackingcodesresources
+
+Online diff tool
+http://inventwithpython.com/cracking/diff/
+
