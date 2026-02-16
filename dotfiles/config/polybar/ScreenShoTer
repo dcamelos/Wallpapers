@@ -38,7 +38,7 @@ fi
 case "$chosen" in
     "$s_full")
         # Captura pantalla completa (monitor actual)
-        maim -u "$(date +%Y-%m-%d-%H%M%S).png" && mv *.png "$dir/" 
+        sleep 0.5 && maim -u "$(date +%Y-%m-%d-%H%M%S).png" && mv *.png "$dir/" 
         ;;
     "$s_select")
         # Selección de área
@@ -48,10 +48,10 @@ case "$chosen" in
         sleep 3 && maim -u "$dir/Shot-$(date +%Y-%m-%d-%H%M%S).png"
         ;;
     "$s_in3select")
-        sleep 3 && maim -s -u "$dir/Shot-$(date +%Y-%m-%d-%H%M%S).png"
+         maim -s -d 3 "$dir/Shot-$(date +%Y-%m-%d-%H%M%S).png"
         ;;
     "$s_all")
-        maim -u "$dir/Shot-$(date +%Y-%m-%d-%H%M%S).png"
+        sleep 0.5 && maim -u "$dir/Shot-$(date +%Y-%m-%d-%H%M%S).png"
         ;;
 esac
 
