@@ -2,9 +2,9 @@
 
 # Comprobar si se pasó una imagen
 if [ -z "$1" ]; then
-    echo "Error: Debes proporcionar una imagen."
-    echo "Uso: $0 /ruta/a/la/imagen.jpg"
-    exit 1
+  echo "Error: Debes proporcionar una imagen."
+  echo "Uso: $0 /ruta/a/la/imagen.jpg"
+  exit 1
 fi
 
 # 1. Generar colores con Pywal
@@ -22,7 +22,7 @@ source "$HOME/.cache/wal/colors.sh"
 # Extraemos el color de fondo sin el '#'
 BG_HEX=$(echo "$background" | sed 's/#//')
 
-cat <<EOF > ~/.config/polybar/colors.ini
+cat <<EOF >~/.config/polybar/colors.ini
 [colors]
 background = #00${BG_HEX}
 window-background = #CC${background:1}
@@ -45,7 +45,7 @@ aurora-violet = ${color4}
 EOF
 
 # Rofi
-cat <<EOF > ~/.config/rofi/shared.rasi
+cat <<EOF >~/.config/rofi/shared.rasi
 * {
     font: " BebasNeue 14";
     background: ${background}CC;
@@ -60,7 +60,7 @@ EOF
 
 # Dunst
 mkdir -p ~/.config/dunst
-cat <<EOF > ~/.config/dunst/dunstrc
+cat <<EOF >~/.config/dunst/dunstrc
 [global]
   # Defines where the notifications should be placed in a multi-monitor setup
   follow = keyboard
@@ -163,11 +163,9 @@ highlight = "${color2}"
     foreground = "${background}"
 EOF
 
-
-
 # --- 9. GENERAR TEMA PARA HELIX ---
 # El archivo se llamará "gtk_theme.toml"
-cat <<EOF > "$HOME/.config/helix/themes/gtk_theme.toml"
+cat <<EOF >"$HOME/.config/helix/themes/gtk_theme.toml"
 # --- INTERFAZ DE USUARIO ---
 "ui.background" = { }
 "ui.text" = { fg = "${foreground}"}
@@ -224,14 +222,21 @@ echo "Archivo de Helix actualizado en themes/gtk_theme.toml"
 
 # --- 4. REINICIAR COMPONENTES ---
 
-# Reiniciar Dunst
-killall dunst && dunst &
+# 1. Reiniciar Dunst (en una subshell para que no bloquee)
+(
+  killall -q dunst
+  while pgrep -u $UID -x dunst >/dev/null; do sleep 0.1; done
+  dunst &
+  sleep 0.3
+  notify-send -u normal -r 9999 -t 5000 -i "$1" "🎨 Tema Actualizado" "Esquema de colores aplicado"
+) &
 
-# Reiniciar Polybar
-# Buscamos el nombre de tu barra actual automáticamente
-killall -q polybar
-while pgrep -u $UID -x polybar >/dev/null; do sleep 1; done
-polybar -c ~/.config/polybar/config.ini main & # Cambia 'main' por el nombre de tu barra
+# 2. Reiniciar Polybar (independiente del resto)
+(
+  killall -q polybar
+  while pgrep -u $UID -x polybar >/dev/null; do sleep 0.2; done
+  # IMPORTANTE: Asegúrate de que el nombre de la barra sea 'main' o cámbialo aquí
+  polybar -c ~/.config/polybar/config.ini main &>/dev/null &
+) &
 
-echo "Colores aplicados correctamente."
-
+echo "Componentes reiniciados en segundo plano."
